@@ -49,13 +49,13 @@ The segmentation revealed distinct user groups, allowing for tailored marketing 
 Here are some visualizations that illustrate the results of the user profiling and segmentation:
 
 ### Graph 1: User Segmentation Distribution
-![User Segmentation Distribution](path/to/your/graph1.png)
+![User Segmentation Distribution](1.png)
 
 ### Graph 2: Key Characteristics of User Segments
-![Key Characteristics of User Segments](path/to/your/graph2.png)
+![Key Characteristics of User Segments](3.png)
 
 ### Graph 3: Behavioral Patterns by Segment
-![Behavioral Patterns by Segment](path/to/your/graph3.png)
+![Behavioral Patterns by Segment](4.png)
 
 ## Conclusion
 User profiling and segmentation are powerful tools that enable data professionals to understand their user base in-depth. By tailoring strategies to meet diverse user needs, businesses can improve customer satisfaction and drive engagement.
